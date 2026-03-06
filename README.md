@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="280" src="https://i.pinimg.com/originals/0b/d5/b0/0bd5b0c8c81b84e0af48689b5f14c690.gif"  />
+<p align="left">👩‍💻 Hello! My name is **Jessica Lima Moreira**.<br><br>I am an **Information Technology student** and passionate about **programming**. I am currently focused on learning more about software development and improving my skills in technology.<br><br>I enjoy solving problems through code and I am building my path to become a **future Software Engineer**. I believe programming is a powerful tool to create solutions, innovate, and turn ideas into reality.<br><br>🚀 Always learning, practicing, and growing in the world of technology.</p>
 
 ###
 
-<p align="left">👩‍💻 Hello! My name is **Jessica Lima Moreira**.<br><br>I am an **Information Technology student** and passionate about **programming**. I am currently focused on learning more about software development and improving my skills in technology.<br><br>I enjoy solving problems through code and I am building my path to become a **future Software Engineer**. I believe programming is a powerful tool to create solutions, innovate, and turn ideas into reality.<br><br>🚀 Always learning, practicing, and growing in the world of technology.</p>
+<img align="left" height="280" src="https://i.pinimg.com/originals/0b/d5/b0/0bd5b0c8c81b84e0af48689b5f14c690.gif"  />
 
 ###
 
